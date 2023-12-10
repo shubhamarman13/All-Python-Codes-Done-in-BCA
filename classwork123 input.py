@@ -1,0 +1,9 @@
+name=input()
+rollno=int(input())
+m1=int(input())
+m2=int(input())
+m3=int(input())
+x="---------"
+total=(m1+m2+m3)
+avg=m1+m2+m3/3
+print("name:\t%s\nrollno:\t%s\nm1:\t%d\nm2:\t%d\nm3:\t%d\nx:\t%s\ntotal:\t%d\navg:\t%d\n"%(name,rollno,m1,m2,m3,x,total,avg))
